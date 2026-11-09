@@ -1,6 +1,5 @@
 # Personalized-TED-Talks-Recommendation-System-
 Infosys Spring Board Internship Project
-# Personalized TED Talks Recommendation System
 
 ## 1. Project Overview
 The Personalized TED Talks Recommendation System is an AI-powered application that recommends TED Talks based on users' interests, preferences, and viewing history.

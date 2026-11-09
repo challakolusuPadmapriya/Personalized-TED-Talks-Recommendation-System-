@@ -1,0 +1,6 @@
+# Data Preprocessing
+
+This folder contains Python files used to clean and preprocess the TED Talks dataset.
+
+## Files
+- `data_cleaning.py` – Removes duplicates, handles missing values, and cleans dataset columns.

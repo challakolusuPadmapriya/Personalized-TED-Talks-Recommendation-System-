@@ -1,0 +1,16 @@
+PERSONALIZED TED TALKS RECOMMENDATION SYSTEM
+MODULE 5: EVALUATION METRICS
+
+Evaluation Metrics:
+1. Precision@10
+2. Recall@10
+3. NDCG@10
+4. Mean Average Precision
+
+MODEL COMPARISON:
+       Method  Precision@10  Recall@10  NDCG@10      MAP
+Content-Based      0.470683   0.005415 0.468541 0.413338
+       Hybrid      0.448823   0.005166 0.448927 0.400955
+
+Relevance definition: Two talks are relevant if they share at least one tag.
+Hybrid model: 80% content similarity and 20% popularity score.
